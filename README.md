@@ -4,6 +4,7 @@ AIM:
 To design and test the performance of differentiator circuits using Op-amp.
 
 APPARATUS REQUIRED:
+
 <img width="711" height="200" alt="image" src="https://github.com/user-attachments/assets/bb2d2881-17e3-4c7d-bbb1-ad332bbbc5c9" />
 
 THEORY:
@@ -44,16 +45,20 @@ PROCEDURE:
 MODEL GRAPH:  
 DIFFERENTIATOR          
 (i) SINE WAVE INPUT
+
 <img width="688" height="480" alt="image" src="https://github.com/user-attachments/assets/5a790cb8-1a8b-4990-b599-3c7680c24545" />
 
 (ii) SQUARE WAVE INPUT
+
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
-
+![WhatsApp Image 2025-11-24 at 21 21 20_b14181ff](https://github.com/user-attachments/assets/d341088a-c022-476d-b2f4-6d9a5705ecb6)
 
 GRAPH:
 
+![WhatsApp Image 2025-11-24 at 21 22 17_b2069a8b](https://github.com/user-attachments/assets/4244a21f-a4c4-427d-bceb-f2b11c29b7bb)
 
 RESULT:
+![WhatsApp Image 2025-11-24 at 21 22 47_aa5cc10a](https://github.com/user-attachments/assets/aa90fda5-8cc1-4dee-99db-4e9757144529)
 
